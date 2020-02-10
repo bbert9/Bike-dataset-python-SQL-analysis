@@ -13,4 +13,4 @@ First GitHub project in order to discover and gain first experience with Git and
 -README.md
 
 ### Credits
-udacity/pdsnd_github: GitHub project (Project 3) repository for PDSND
+udacity/pdsnd_github: GitHub project (Project 3) repository for PDSND.
