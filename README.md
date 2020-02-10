@@ -5,10 +5,12 @@ Project created 10 February 2020.
 GitHub project (Udacity)
 
 ### Description
-Describe what your project is about and what it does
+First GitHub project in order to discover and gain first experience with Git and GitHub.
 
 ### Files used
-Include the files used
+-bikeshare.py
+-.gitignore containing the CSV files
+-README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+udacity/pdsnd_github: GitHub project (Project 3) repository for PDSND
